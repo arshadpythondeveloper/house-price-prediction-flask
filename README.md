@@ -1,4 +1,3 @@
-# house-price-prediction-flask
 # House Price Prediction System
 
 A simple Machine Learning web application built with Flask and Linear Regression.
